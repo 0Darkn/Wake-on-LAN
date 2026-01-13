@@ -48,10 +48,10 @@ python3 wake_on_lan_qt.py
 
 No **PC remoto**:
 
-✔ Wake-on-LAN ativado na BIOS/UEFI
-✔ Placa de rede configurada para WOL
-✔ PC ligado à corrente (não desligado da tomada)
-✔ Normalmente funciona melhor na **mesma rede local**
+- ✔ Wake-on-LAN ativado na BIOS/UEFI
+- ✔ Placa de rede configurada para WOL
+- ✔ PC ligado à corrente (não desligado da tomada)
+- ✔ Normalmente funciona melhor na **mesma rede local**
 
 ---
 
