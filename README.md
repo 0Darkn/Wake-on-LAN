@@ -1,3 +1,4 @@
+[English](https://github.com/0Darkn/Wake-on-LAN/blob/main/English-README.md)
 ## Versão em Qt (PyQt5) – Wake-on-LAN
 
 ## Como correr o script
