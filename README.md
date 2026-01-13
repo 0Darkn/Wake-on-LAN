@@ -1,6 +1,6 @@
-## 1️⃣ Versão em Qt (PyQt5) – Wake-on-LAN
+## Versão em Qt (PyQt5) – Wake-on-LAN
 
-## 3️⃣ Como correr o script
+## Como correr o script
 
 ### ✅ 1. Instalar dependências
 
